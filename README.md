@@ -3,7 +3,7 @@
 
 
 ### tech stack:
-- java: ecample-app-svc ✔️
+- java: example-app-svc ✔️
 - prometheus: receiver log services ✔️
 - open telemetry: collector trace and log ✔️
 - grafana-tempo: managing trace ✔️
@@ -25,4 +25,4 @@
 ![image](https://github.com/user-attachments/assets/6c556571-c24b-48b5-8fa6-a8bc06729988)
 
 ## example grafana
-![image](https://github.com/user-attachments/assets/f9061ec2-53c6-421c-8da7-70eb401be3d7)
+![image](https://github.com/user-attachments/assets/f9061ec2-53c6-421c-8da7-70eb401be3d7)x
